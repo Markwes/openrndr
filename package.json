@@ -28,7 +28,7 @@
     "@graphql-codegen/cli": "^1.18.0",
     "@graphql-codegen/fragment-matcher": "^1.17.8",
     "@nuxtjs/fontawesome": "^1.1.2",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "sass-loader": "^8.0.2"
   }
 }
